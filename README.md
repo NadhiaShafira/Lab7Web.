@@ -35,6 +35,9 @@ Project ini merupakan hasil praktikum CodeIgniter 4 yang mempelajari pembuatan w
 ## 📸 Hasil Screenshot
 
 ### SS1 - Aktivasi CodeIgniter  
+
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/387724c1f7fa3a7b0cde012738700c6a88b9bd8e/ss_prak1/SS1_Aktivasi_CodeIgniter.png) 
+
 Menampilkan proses awal menjalankan CodeIgniter di browser.
 
 ### SS2 - Konfigurasi App  
