@@ -40,7 +40,9 @@ Project ini merupakan hasil praktikum CodeIgniter 4 yang mempelajari pembuatan w
 
 Menampilkan proses awal menjalankan CodeIgniter di browser.
 
-### SS2 - Konfigurasi App  
+### SS2 - Konfigurasi App 
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/2d2e9e14d04dcf77893f2c7fb843bf0f60c5ad74/ss_prak1/SS2_Konfigurasi_App_Hapus_TitikKoma.png) 
+
 Menampilkan pengaturan dengan menghapus tanda `;`.
 
 ### SS3 - Rename File .env  
