@@ -78,6 +78,9 @@ Menampilkan halaman tambahan dari controller.
 Menampilkan halaman About menggunakan view.
 
 ### SS8 - Layout dan CSS  
+
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/4a06f40ce88e176aebb744157af6349536de2dd3/ss_prak1/SS8_Layout_Web_Dengan_CSS_Berhasil.png) 
+
 Menampilkan tampilan website dengan template dan CSS.
 
 ### SS9 - Halaman Contact  
