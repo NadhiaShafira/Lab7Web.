@@ -65,6 +65,10 @@ Menampilkan penggunaan perintah `php spark`.
 Menampilkan halaman About sederhana menggunakan echo.
 
 ### SS6 - Halaman Term of Services  
+
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/4c48b6c7b31d5a93c620c46fc1a20a6b01451eeb/ss_prak1/SS6_Halaman_TermOfServices.png
+)
+
 Menampilkan halaman tambahan dari controller.
 
 ### SS7 - View About  
