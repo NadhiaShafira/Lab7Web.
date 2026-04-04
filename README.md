@@ -84,6 +84,9 @@ Menampilkan halaman About menggunakan view.
 Menampilkan tampilan website dengan template dan CSS.
 
 ### SS9 - Halaman Contact  
+
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/e6cce25aca4eaf1b01448a2c70f0ea2763f7d54b/ss_prak1/SS9_Halaman_Contact_Berhasil.png)
+
 Menampilkan halaman Contact yang sudah menggunakan layout.
 
 ### SS10 - Halaman FAQ  
