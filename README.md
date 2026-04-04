@@ -54,10 +54,13 @@ Menampilkan perubahan file `env` menjadi `.env`.
 
 ### SS4 - PHP Spark  
 
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/dd5a8fbc7c9887c8d8d2124061cc2a94e1b294a2/ss_prak1/SS4_Perintah_PHP_Spark.png) 
 
 Menampilkan penggunaan perintah `php spark`.
 
 ### SS5 - Halaman About Awal  
+
+
 Menampilkan halaman About sederhana menggunakan echo.
 
 ### SS6 - Halaman Term of Services  
