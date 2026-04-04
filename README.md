@@ -90,6 +90,9 @@ Menampilkan tampilan website dengan template dan CSS.
 Menampilkan halaman Contact yang sudah menggunakan layout.
 
 ### SS10 - Halaman FAQ  
+
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/de50308fd43d8c32420c80454609492e90eab9d5/ss_prak1/SS10_Fix_Error_FAQ_Berhasil.png)
+
 Menampilkan halaman FAQ setelah perbaikan error.
 
 ---
