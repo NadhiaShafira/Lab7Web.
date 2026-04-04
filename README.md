@@ -72,6 +72,9 @@ Menampilkan halaman About sederhana menggunakan echo.
 Menampilkan halaman tambahan dari controller.
 
 ### SS7 - View About  
+
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/8d801cf71a1be408bc63ec143bf833cb70417524/ss_prak1/SS7_View_About_Berhasil.png)
+
 Menampilkan halaman About menggunakan view.
 
 ### SS8 - Layout dan CSS  
