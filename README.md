@@ -41,14 +41,20 @@ Project ini merupakan hasil praktikum CodeIgniter 4 yang mempelajari pembuatan w
 Menampilkan proses awal menjalankan CodeIgniter di browser.
 
 ### SS2 - Konfigurasi App 
+
 ![foto](https://github.com/NadhiaShafira/Lab7Web./blob/2d2e9e14d04dcf77893f2c7fb843bf0f60c5ad74/ss_prak1/SS2_Konfigurasi_App_Hapus_TitikKoma.png) 
 
 Menampilkan pengaturan dengan menghapus tanda `;`.
 
-### SS3 - Rename File .env  
+### SS3 - Rename File .env 
+
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/c24acafcb6bd897faa95398ea91116ddc7116fc8/ss_prak1/SS3_Rename_Env_ke_DotEnv.png)
+
 Menampilkan perubahan file `env` menjadi `.env`.
 
 ### SS4 - PHP Spark  
+
+
 Menampilkan penggunaan perintah `php spark`.
 
 ### SS5 - Halaman About Awal  
