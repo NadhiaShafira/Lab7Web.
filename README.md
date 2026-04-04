@@ -60,6 +60,7 @@ Menampilkan penggunaan perintah `php spark`.
 
 ### SS5 - Halaman About Awal  
 
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/c2bc9b3219e4fd7b58d1c555b2378e97e37d2e69/ss_prak1/SS5_Halaman_About_Pertama.png)
 
 Menampilkan halaman About sederhana menggunakan echo.
 
