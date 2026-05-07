@@ -72,7 +72,7 @@ Pada praktikum ini, saya mulai masuk ke bagian inti yaitu membangun fitur CRUD (
    ![02_Struktur_Tabel_Artikel](https://github.com/NadhiaShafira/Lab7Web./blob/40542ff11153092bd8f0e156231c96a195b17559/ssweb2/02_Struktur_Tabel_Artikel.png)
 
 3. **Tampilan Awal:** Kondisi halaman daftar artikel yang masih kosong sebelum diisi data. 📄
-   ![03_Tampilan_Awal_Kosong](03_Tampilan_Awal_Kosong.png)
+   ![03_Tampilan_Awal_Kosong](https://github.com/NadhiaShafira/Lab7Web./blob/ccecae8e4760068f8578075ca2ef0d6df89b296d/ssweb2/03_Tampilan_Awal_Kosong.png)
 
 4. **Insert Data:** Melakukan pengisian data awal menggunakan query SQL. 💾
    ![04_Query_Insert_Data](04_Query_Insert_Data.png)
