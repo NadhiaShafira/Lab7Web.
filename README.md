@@ -33,7 +33,7 @@ Pada tahap awal ini, saya melakukan instalasi dan konfigurasi dasar untuk memast
    ![01_Instalasi_Sukses_Welcome](https://github.com/NadhiaShafira/Lab7Web./blob/a40cbfe1c01c464100a05965c0a19a00622c2979/ssweb1/01_Instalasi_Sukses_Welcome_.png)
 
 2. **Setup Environment:** Mengaktifkan mode development pada file konfigurasi `.env`. 🛠️
-   ![02_Konfigurasi_Environment_Development](02_Konfigurasi_Environment_Development.png)
+   ![02_Konfigurasi_Environment_Development](https://github.com/NadhiaShafira/Lab7Web./blob/047801405e2c9d5774f046013968014f4752469a/ssweb1/02_Konfigurasi_Environment_Development.png)
 
 3. **Uji Coba Routing:** Berhasil membuat route baru untuk halaman About. 📍
    ![03_Routing_About_Berhasil](03_Routing_About_Berhasil.png)
