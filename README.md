@@ -36,7 +36,7 @@ Pada tahap awal ini, saya melakukan instalasi dan konfigurasi dasar untuk memast
    ![02_Konfigurasi_Environment_Development](https://github.com/NadhiaShafira/Lab7Web./blob/047801405e2c9d5774f046013968014f4752469a/ssweb1/02_Konfigurasi_Environment_Development.png)
 
 3. **Uji Coba Routing:** Berhasil membuat route baru untuk halaman About. 📍
-   ![03_Routing_About_Berhasil](03_Routing_About_Berhasil.png)
+   ![03_Routing_About_Berhasil](https://github.com/NadhiaShafira/Lab7Web./blob/a7bdcc74bcca7527cef75a94df76637ce5d27759/ssweb1/03_Routing_About_Berhasil.png)
 
 4. **Tampilan View:** Membuat konten halaman About melalui file View. 🖼️
    ![04_Tampilan_View_About](04_Tampilan_View_About.png)
