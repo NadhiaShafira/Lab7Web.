@@ -30,7 +30,7 @@ Pada tahap awal ini, saya melakukan instalasi dan konfigurasi dasar untuk memast
 **Dokumentasi Langkah-langkah:**
 
 1. **Konfigurasi Welcome Page:** Berhasil menjalankan server dan memunculkan halaman utama CI4. 🌟
-   ![01_Instalasi_Sukses_Welcome](01_Instalasi_Sukses_Welcome.png)
+   ![01_Instalasi_Sukses_Welcome](https://github.com/NadhiaShafira/Lab7Web./blob/a40cbfe1c01c464100a05965c0a19a00622c2979/ssweb1/01_Instalasi_Sukses_Welcome_.png)
 
 2. **Setup Environment:** Mengaktifkan mode development pada file konfigurasi `.env`. 🛠️
    ![02_Konfigurasi_Environment_Development](02_Konfigurasi_Environment_Development.png)
