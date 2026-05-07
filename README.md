@@ -142,7 +142,7 @@ Pada praktikum terakhir ini, saya membangun sistem keamanan autentikasi untuk me
    ![02_Data_User_Testing](https://github.com/NadhiaShafira/Lab7Web./blob/6c6e178ea6a10f95a4654d6bd1e77a6b1fd5aa78/ssweb4/02_Data_User_Testing.png)
 
 3. **Tampilan Login Baru:** Hasil desain halaman login yang sudah dipercantik dan terlihat lebih estetik. 🎨
-   ![03_Tampilan_Login_Baru](03_Tampilan_Login_Baru.png)
+   ![03_Tampilan_Login_Baru](https://github.com/NadhiaShafira/Lab7Web./blob/750438bb90bb9f463adf50adb1fb4c7129a521da/ssweb4/03_Tampilan_Login_Baru.png)
 
 4. **Login Berhasil Admin:** Tampilan dashboard admin yang berhasil terbuka setelah memasukkan akun yang benar. ✅
    ![04_Login_Berhasil_Admin](04_Login_Berhasil_Admin.png)
