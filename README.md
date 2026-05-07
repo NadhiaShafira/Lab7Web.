@@ -115,4 +115,8 @@ Pada praktikum ini, saya belajar teknik "Layouting" untuk membuat kerangka websi
    ![1_Implementasi_View_Layout](https://github.com/NadhiaShafira/Lab7Web./blob/2d035a6bcdfa526a024cd8908e6a75a0fb0d3cd5/ssweb3/1_Implementasi_View_Layout.png)
 
 2. **Implementasi View Cell Artikel Terkini:** Penampakan widget "Artikel Terkini" di bagian sidebar yang datanya diambil secara otomatis dari sistem. 🔗✨
-   ![2_Implementasi_View_Cell_Artikel_Terkini](2_Implementasi_View_Cell_Artikel_Terkini.png)
+   ![2_Implementasi_View_Cell_Artikel_Terkini](https://github.com/NadhiaShafira/Lab7Web./blob/2c65255e69b274c0825584e8788f6f7fa74860c8/ssweb3/2_Implementasi%20View%20Cell%20Artikel%20Terkini.png)
+
+---
+
+
