@@ -94,3 +94,25 @@ Pada praktikum ini, saya mulai masuk ke bagian inti yaitu membangun fitur CRUD (
 
 10. **Hasil Ubah:** Tampilan artikel setelah berhasil diperbarui. 🌟
     ![10_Hasil_Ubah_Artikel](https://github.com/NadhiaShafira/Lab7Web./blob/05e7e6851c7c3c9f5a101f6f9e32784ccd5757df/ssweb2/10_Hasil_Ubah_Artikel.png)
+
+    ---
+
+ ## 🎨 Praktikum 3: Layouting & View Cell
+ 
+Pada praktikum ini, saya belajar teknik "Layouting" untuk membuat kerangka website yang konsisten dan menggunakan "View Cell" agar komponen web bisa digunakan berulang kali secara efisien. 🧱✨
+
+**Penjelasan Lengkap:**
+
+* **Layout Utama:** Membuat file induk (template) yang berisi bagian Header, Navigasi, dan Footer yang sama untuk semua halaman. Jadi, saya tidak perlu menulis kode yang sama berulang-ulang di setiap file. 🏛️
+  
+* **Modularisasi:** Menggunakan fungsi `renderSection` untuk menentukan bagian mana dari layout yang isinya akan berubah-ubah (dinamis) sesuai halaman yang dibuka. 🧩
+  
+* **View Cell (Widget):** Membuat komponen kecil yang berdiri sendiri untuk menampilkan daftar "Artikel Terkini". Komponen ini sangat praktis karena bisa dipanggil di halaman mana pun hanya dengan satu baris kode. 📱🔗
+
+**Dokumentasi Langkah-langkah:**
+
+1. **Implementasi View Layout:** Hasil penerapan template utama pada halaman website sehingga tampilannya lebih rapi dan terstruktur. 🖼️
+   ![1_Implementasi_View_Layout](1_Implementasi_View_Layout.png)
+
+2. **Implementasi View Cell Artikel Terkini:** Penampakan widget "Artikel Terkini" di bagian sidebar yang datanya diambil secara otomatis dari sistem. 🔗✨
+   ![2_Implementasi_View_Cell_Artikel_Terkini](2_Implementasi_View_Cell_Artikel_Terkini.png)
