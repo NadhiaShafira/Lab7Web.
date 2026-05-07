@@ -136,7 +136,7 @@ Pada praktikum terakhir ini, saya membangun sistem keamanan autentikasi untuk me
 **Dokumentasi Langkah-langkah:**
 
 1. **Struktur Tabel User:** Membuat tabel `user` lengkap dengan kolom username dan password. 📋
-   ![01_Struktur_Tabel_User](01_Struktur_Tabel_User.png)
+   ![01_Struktur_Tabel_User](https://github.com/NadhiaShafira/Lab7Web./blob/83519da52b666f2826cfa27940c7b2c23726fa39/ssweb4/01_Struktur_Tabel_User.png)
 
 2. **Data User Testing:** Memasukkan data admin contoh ke dalam database untuk keperluan uji coba login. 🔑
    ![02_Data_User_Testing](02_Data_User_Testing.png)
