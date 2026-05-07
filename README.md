@@ -45,4 +45,4 @@ Pada tahap awal ini, saya melakukan instalasi dan konfigurasi dasar untuk memast
    ![05_Hasil_Layouting_Halaman_About](https://github.com/NadhiaShafira/Lab7Web./blob/f4770c26cb6203cffbadab7045fadcdbdf6365a8/ssweb1/05_Hasil_Layouting_Halaman_About.png)
 
 6. **Final Styling:** Hasil akhir tampilan dengan kustomisasi style agar lebih rapi. 💎
-   ![06_Final_Result_Lab11_Custom_Style](06_Final_Result_Lab11_Custom_Style.png)
+   ![06_Final_Result_Lab11_Custom_Style](https://github.com/NadhiaShafira/Lab7Web./blob/fafc0def69100047e114a6b7d619d4c999bd2ccb/ssweb1/06_Final_Result_Lab11_Custom_Style.png)
