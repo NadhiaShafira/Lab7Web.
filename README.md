@@ -145,7 +145,7 @@ Pada praktikum terakhir ini, saya membangun sistem keamanan autentikasi untuk me
    ![03_Tampilan_Login_Baru](https://github.com/NadhiaShafira/Lab7Web./blob/750438bb90bb9f463adf50adb1fb4c7129a521da/ssweb4/03_Tampilan_Login_Baru.png)
 
 4. **Login Berhasil Admin:** Tampilan dashboard admin yang berhasil terbuka setelah memasukkan akun yang benar. ✅
-   ![04_Login_Berhasil_Admin](04_Login_Berhasil_Admin.png)
+   ![04_Login_Berhasil_Admin](https://github.com/NadhiaShafira/Lab7Web./blob/98e7c719ecbdd24e4266ecd9583df88688a39471/ssweb4/04_Login_Berhasil_Admin.png)
 
 5. **Uji Coba Filter Auth:** Dokumentasi saat sistem berhasil memblokir akses ilegal dan memberikan peringatan keamanan. 🔒
    ![05_Uji_Coba_Filter_Auth](05_Uji_Coba_Filter_Auth.png)
