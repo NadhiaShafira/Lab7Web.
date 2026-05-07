@@ -42,7 +42,7 @@ Pada tahap awal ini, saya melakukan instalasi dan konfigurasi dasar untuk memast
    ![04_Tampilan_View_About](https://github.com/NadhiaShafira/Lab7Web./blob/8b8c70724563fbd5deb4df1deafd95a1b6e345f6/ssweb1/04_Tampilan_View_About.png)
 
 5. **Hasil Layouting:** Menerapkan struktur layouting dasar pada halaman About. 🏛️
-   ![05_Hasil_Layouting_Halaman_About](05_Hasil_Layouting_Halaman_About.png)
+   ![05_Hasil_Layouting_Halaman_About](https://github.com/NadhiaShafira/Lab7Web./blob/f4770c26cb6203cffbadab7045fadcdbdf6365a8/ssweb1/05_Hasil_Layouting_Halaman_About.png)
 
 6. **Final Styling:** Hasil akhir tampilan dengan kustomisasi style agar lebih rapi. 💎
    ![06_Final_Result_Lab11_Custom_Style](06_Final_Result_Lab11_Custom_Style.png)
