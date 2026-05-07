@@ -39,7 +39,7 @@ Pada tahap awal ini, saya melakukan instalasi dan konfigurasi dasar untuk memast
    ![03_Routing_About_Berhasil](https://github.com/NadhiaShafira/Lab7Web./blob/a7bdcc74bcca7527cef75a94df76637ce5d27759/ssweb1/03_Routing_About_Berhasil.png)
 
 4. **Tampilan View:** Membuat konten halaman About melalui file View. 🖼️
-   ![04_Tampilan_View_About](04_Tampilan_View_About.png)
+   ![04_Tampilan_View_About](https://github.com/NadhiaShafira/Lab7Web./blob/8b8c70724563fbd5deb4df1deafd95a1b6e345f6/ssweb1/04_Tampilan_View_About.png)
 
 5. **Hasil Layouting:** Menerapkan struktur layouting dasar pada halaman About. 🏛️
    ![05_Hasil_Layouting_Halaman_About](05_Hasil_Layouting_Halaman_About.png)
