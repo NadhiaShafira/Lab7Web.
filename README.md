@@ -66,7 +66,7 @@ Pada praktikum ini, saya mulai masuk ke bagian inti yaitu membangun fitur CRUD (
 **Dokumentasi Langkah-langkah:**
 
 1. **Konfigurasi Database:** Mengatur nama database, username, dan password pada file `.env`. 🛠️
-   ![01_Konfigurasi_Database_env](01_Konfigurasi_Database_env.png)
+   ![01_Konfigurasi_Database_env](https://github.com/NadhiaShafira/Lab7Web./blob/42454ba8048f7d867e14addb2bcda37055706bff/ssweb2/01_Konfigurasi_Database_env.png)
 
 2. **Struktur Tabel Artikel:** Penampakan tabel `artikel` yang sudah dibuat di phpMyAdmin. 📋
    ![02_Struktur_Tabel_Artikel](02_Struktur_Tabel_Artikel.png)
