@@ -69,7 +69,7 @@ Pada praktikum ini, saya mulai masuk ke bagian inti yaitu membangun fitur CRUD (
    ![01_Konfigurasi_Database_env](https://github.com/NadhiaShafira/Lab7Web./blob/42454ba8048f7d867e14addb2bcda37055706bff/ssweb2/01_Konfigurasi_Database_env.png)
 
 2. **Struktur Tabel Artikel:** Penampakan tabel `artikel` yang sudah dibuat di phpMyAdmin. 📋
-   ![02_Struktur_Tabel_Artikel](02_Struktur_Tabel_Artikel.png)
+   ![02_Struktur_Tabel_Artikel](https://github.com/NadhiaShafira/Lab7Web./blob/40542ff11153092bd8f0e156231c96a195b17559/ssweb2/02_Struktur_Tabel_Artikel.png)
 
 3. **Tampilan Awal:** Kondisi halaman daftar artikel yang masih kosong sebelum diisi data. 📄
    ![03_Tampilan_Awal_Kosong](03_Tampilan_Awal_Kosong.png)
