@@ -112,7 +112,7 @@ Pada praktikum ini, saya belajar teknik "Layouting" untuk membuat kerangka websi
 **Dokumentasi Langkah-langkah:**
 
 1. **Implementasi View Layout:** Hasil penerapan template utama pada halaman website sehingga tampilannya lebih rapi dan terstruktur. 🖼️
-   ![1_Implementasi_View_Layout](1_Implementasi_View_Layout.png)
+   ![1_Implementasi_View_Layout](https://github.com/NadhiaShafira/Lab7Web./blob/2d035a6bcdfa526a024cd8908e6a75a0fb0d3cd5/ssweb3/1_Implementasi_View_Layout.png)
 
 2. **Implementasi View Cell Artikel Terkini:** Penampakan widget "Artikel Terkini" di bagian sidebar yang datanya diambil secara otomatis dari sistem. 🔗✨
    ![2_Implementasi_View_Cell_Artikel_Terkini](2_Implementasi_View_Cell_Artikel_Terkini.png)
