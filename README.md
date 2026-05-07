@@ -148,4 +148,4 @@ Pada praktikum terakhir ini, saya membangun sistem keamanan autentikasi untuk me
    ![04_Login_Berhasil_Admin](https://github.com/NadhiaShafira/Lab7Web./blob/98e7c719ecbdd24e4266ecd9583df88688a39471/ssweb4/04_Login_Berhasil_Admin.png)
 
 5. **Uji Coba Filter Auth:** Dokumentasi saat sistem berhasil memblokir akses ilegal dan memberikan peringatan keamanan. 🔒
-   ![05_Uji_Coba_Filter_Auth](05_Uji_Coba_Filter_Auth.png)
+   ![05_Uji_Coba_Filter_Auth](https://github.com/NadhiaShafira/Lab7Web./blob/eab57e57d063559fc28fbc0c6c8d885fbdd7176e/ssweb4/05_Uji_Coba_Filter_Auth.png)
