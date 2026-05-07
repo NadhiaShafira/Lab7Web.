@@ -90,7 +90,7 @@ Pada praktikum ini, saya mulai masuk ke bagian inti yaitu membangun fitur CRUD (
    ![08_Hasil_Tambah_Artikel](https://github.com/NadhiaShafira/Lab7Web./blob/b146151e748475ec1d0d775b72e74a5e8abb530e/ssweb2/08_Hasil_Tambah_Artikel.png)
 
 9. **Form Ubah:** Formulir untuk mengedit artikel yang sudah ada. ✏️
-   ![09_Form_Ubah_Artikel](09_Form_Ubah_Artikel.png)
+   ![09_Form_Ubah_Artikel](https://github.com/NadhiaShafira/Lab7Web./blob/c8451446a545285e57d2465f3e54508baf74a4fa/ssweb2/09_Form_Ubah_Artikel.png)
 
 10. **Hasil Ubah:** Tampilan artikel setelah berhasil diperbarui. 🌟
     ![10_Hasil_Ubah_Artikel](10_Hasil_Ubah_Artikel.png)
