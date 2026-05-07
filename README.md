@@ -46,3 +46,51 @@ Pada tahap awal ini, saya melakukan instalasi dan konfigurasi dasar untuk memast
 
 6. **Final Styling:** Hasil akhir tampilan dengan kustomisasi style agar lebih rapi. 💎
    ![06_Final_Result_Lab11_Custom_Style](https://github.com/NadhiaShafira/Lab7Web./blob/fafc0def69100047e114a6b7d619d4c999bd2ccb/ssweb1/06_Final_Result_Lab11_Custom_Style.png)
+
+---
+
+## 📝 Praktikum 2: Framework Dasar (CRUD Artikel)
+
+Pada praktikum ini, saya mulai masuk ke bagian inti yaitu membangun fitur CRUD (Create, Read, Update, Delete) untuk manajemen data artikel secara dinamis. 🌊✨
+
+**Penjelasan Lengkap:**
+
+* **Koneksi Database:** Melakukan konfigurasi pada file `.env` agar aplikasi CodeIgniter 4 terhubung dengan database MySQL. 🔗⚙️
+  
+* **Pembuatan Tabel:** Membuat struktur tabel `artikel` di phpMyAdmin untuk menyimpan data seperti judul, isi, dan status artikel. 🗃️
+  
+* **Query Data:** Belajar melakukan manipulasi data (Insert) langsung melalui database untuk pengujian awal. 📥
+  
+* **Logika Admin:** Membangun halaman admin khusus untuk mengelola artikel, lengkap dengan form tambah dan edit yang fungsional. 🧩✨
+
+**Dokumentasi Langkah-langkah:**
+
+1. **Konfigurasi Database:** Mengatur nama database, username, dan password pada file `.env`. 🛠️
+   ![01_Konfigurasi_Database_env](01_Konfigurasi_Database_env.png)
+
+2. **Struktur Tabel Artikel:** Penampakan tabel `artikel` yang sudah dibuat di phpMyAdmin. 📋
+   ![02_Struktur_Tabel_Artikel](02_Struktur_Tabel_Artikel.png)
+
+3. **Tampilan Awal:** Kondisi halaman daftar artikel yang masih kosong sebelum diisi data. 📄
+   ![03_Tampilan_Awal_Kosong](03_Tampilan_Awal_Kosong.png)
+
+4. **Insert Data:** Melakukan pengisian data awal menggunakan query SQL. 💾
+   ![04_Query_Insert_Data](04_Query_Insert_Data.png)
+
+5. **Daftar Artikel:** Halaman depan yang menampilkan daftar artikel hasil dari database. 📰
+   ![05_Tampilan_Daftar_Artikel](05_Tampilan_Daftar_Artikel.png)
+
+6. **Admin Index:** Halaman manajemen artikel khusus untuk admin. 👮‍♀️
+   ![06_Tampilan_Admin_Index](06_Tampilan_Admin_Index.png)
+
+7. **Form Tambah:** Formulir untuk memasukkan artikel baru ke sistem. ➕
+   ![07_Form_Tambah_Artikel](07_Form_Tambah_Artikel.png)
+
+8. **Hasil Tambah:** Bukti artikel baru berhasil tersimpan dan muncul di daftar. ✅
+   ![08_Hasil_Tambah_Artikel](08_Hasil_Tambah_Artikel.png)
+
+9. **Form Ubah:** Formulir untuk mengedit artikel yang sudah ada. ✏️
+   ![09_Form_Ubah_Artikel](09_Form_Ubah_Artikel.png)
+
+10. **Hasil Ubah:** Tampilan artikel setelah berhasil diperbarui. 🌟
+    ![10_Hasil_Ubah_Artikel](10_Hasil_Ubah_Artikel.png)
