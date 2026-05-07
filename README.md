@@ -119,4 +119,33 @@ Pada praktikum ini, saya belajar teknik "Layouting" untuk membuat kerangka websi
 
 ---
 
+## 🔐 Praktikum 4: Framework Lanjutan (Sistem Login & Auth Filter)
 
+Pada praktikum terakhir ini, saya membangun sistem keamanan autentikasi untuk membatasi hak akses halaman admin agar tidak bisa diakses oleh sembarang orang. 👮‍♀️🛡️
+
+**Penjelasan Lengkap:**
+
+* **Manajemen User:** Membuat tabel `user` di database untuk menyimpan data kredensial admin seperti username, email, dan password. 👤
+  
+* **Autentikasi Session:** Membangun logika login yang memeriksa kecocokan data input dengan database. Jika cocok, sistem akan menyimpan data login dalam "Session". 🔍
+  
+* **Auth Filter (Satpam Otomatis):** Mengimplementasikan fitur Filter dari CodeIgniter 4 yang bertugas sebagai pencegat. Jika user yang belum login mencoba mengakses halaman admin, sistem akan otomatis menolak dan mengarahkan kembali ke halaman login. 🚫
+  
+* **UI Refinement:** Mempercantik tampilan formulir login menggunakan **Bootstrap** agar terlihat lebih modern, bersih, dan profesional. 💎🎨
+
+**Dokumentasi Langkah-langkah:**
+
+1. **Struktur Tabel User:** Membuat tabel `user` lengkap dengan kolom username dan password. 📋
+   ![01_Struktur_Tabel_User](01_Struktur_Tabel_User.png)
+
+2. **Data User Testing:** Memasukkan data admin contoh ke dalam database untuk keperluan uji coba login. 🔑
+   ![02_Data_User_Testing](02_Data_User_Testing.png)
+
+3. **Tampilan Login Baru:** Hasil desain halaman login yang sudah dipercantik dan terlihat lebih estetik. 🎨
+   ![03_Tampilan_Login_Baru](03_Tampilan_Login_Baru.png)
+
+4. **Login Berhasil Admin:** Tampilan dashboard admin yang berhasil terbuka setelah memasukkan akun yang benar. ✅
+   ![04_Login_Berhasil_Admin](04_Login_Berhasil_Admin.png)
+
+5. **Uji Coba Filter Auth:** Dokumentasi saat sistem berhasil memblokir akses ilegal dan memberikan peringatan keamanan. 🔒
+   ![05_Uji_Coba_Filter_Auth](05_Uji_Coba_Filter_Auth.png)
