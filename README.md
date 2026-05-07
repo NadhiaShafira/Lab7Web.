@@ -81,7 +81,7 @@ Pada praktikum ini, saya mulai masuk ke bagian inti yaitu membangun fitur CRUD (
    ![05_Tampilan_Daftar_Artikel](https://github.com/NadhiaShafira/Lab7Web./blob/8b8f3fce70b528747e5131c2b03d1c1eb9884a3e/ssweb2/05_Tampilan_Daftar_Artikel.png)
 
 6. **Admin Index:** Halaman manajemen artikel khusus untuk admin. 👮‍♀️
-   ![06_Tampilan_Admin_Index](06_Tampilan_Admin_Index.png)
+   ![06_Tampilan_Admin_Index](https://github.com/NadhiaShafira/Lab7Web./blob/6ed42113a5362e1aac0454d96c7ba8a5a4812e5b/ssweb2/06_Tampilan_Admin_Index.png)
 
 7. **Form Tambah:** Formulir untuk memasukkan artikel baru ke sistem. ➕
    ![07_Form_Tambah_Artikel](07_Form_Tambah_Artikel.png)
