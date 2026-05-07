@@ -11,7 +11,7 @@
 ___
 
 
-# 📚 Laporan Praktikum Pemrograman Web 2 DARI PRAKTIKUM 1 SAMPAI 4
+# 📚 Laporan Praktikum Pemrograman Web 2 Dari Praktikum 1 Sampai 4
 
 ## 🛠️ Praktikum 1: Persiapan & Instalasi Framework CodeIgniter 4
 
