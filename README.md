@@ -11,7 +11,7 @@
 ___
 
 
-# 📚 Laporan Praktikum Pemrograman Web 2 Dari Praktikum 1 Sampai 4
+# 📚 Laporan Praktikum Pemrograman Web 2 Dari Praktikum 1 Sampai 8
 
 ## 🛠️ Praktikum 1: Persiapan & Instalasi Framework CodeIgniter 4
 
@@ -182,7 +182,9 @@ Tugas ini merupakan kelanjutan dari proyek Portal Berita yang menambahkan fitur 
 
 - **Implementasi Pagination** :
 
-   ![foto](https://github.com/NadhiaShafira/Lab7Web./blob/6c52a1dbfc55848ec40e3915053985204352e8b2/ssweb5/01_Implementasi_Pagination_Berhasil.png)
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/6c52a1dbfc55848ec40e3915053985204352e8b2/ssweb5/01_Implementasi_Pagination_Berhasil.png)
   
-- **Implementasi Pencarian** : `02_Implementasi_Pencarian_Berhasil.png`
+- **Implementasi Pencarian** :
+
+![foto](https://github.com/NadhiaShafira/Lab7Web./blob/4711657afb025009a3cb91e599a5ee8988b270b1/ssweb5/02_Implementasi_Pencarian_Berhasil.png)
 
