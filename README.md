@@ -149,3 +149,38 @@ Pada praktikum terakhir ini, saya membangun sistem keamanan autentikasi untuk me
 
 5. **Uji Coba Filter Auth:** Dokumentasi saat sistem berhasil memblokir akses ilegal dan memberikan peringatan keamanan. 🔒
    ![05_Uji_Coba_Filter_Auth](https://github.com/NadhiaShafira/Lab7Web./blob/eab57e57d063559fc28fbc0c6c8d885fbdd7176e/ssweb4/05_Uji_Coba_Filter_Auth.png)
+
+---
+
+# Framework CodeIgniter 4 - Praktikum 5
+
+Tugas ini merupakan kelanjutan dari proyek Portal Berita yang menambahkan fitur pengelolaan data tingkat lanjut pada halaman admin.
+
+## Fitur yang Ditambahkan
+
+1. **Pagination**: Membatasi tampilan data artikel pada tabel admin. Dalam praktikum ini, tampilan dibatasi sebanyak **4 data per halaman**.
+   
+2. **Pencarian (Searching)**: Menambahkan form pencarian untuk memudahkan admin menemukan artikel berdasarkan judul secara spesifik.
+
+## Langkah-Langkah Implementasi
+
+### 1. Pagination
+
+- Mengubah fungsi `admin_index` pada `Artikel.php` dengan menambahkan method `$model->paginate(4)`.
+  
+- Menambahkan kode `<?= $pager->links(); ?>` pada file `admin_index.php` untuk menampilkan navigasi halaman.
+
+### 2. Pencarian
+
+- Menambahkan form pencarian di atas tabel pada file `admin_index.php`.
+  
+- Memperbarui query di controller agar mendukung filter pencarian menggunakan `$model->like('judul', $q)`.
+  
+- Mengatur pagination agar tetap sinkron dengan kata kunci pencarian menggunakan `<?= $pager->only(['q'])->links(); ?>`.
+
+## Bukti Hasil Praktikum
+
+- **Implementasi Pagination**: `01_Implementasi_Pagination_Berhasil.png`
+  
+- **Implementasi Pencarian**: `02_Implementasi_Pencarian_Berhasil.png`
+
