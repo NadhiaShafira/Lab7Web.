@@ -180,7 +180,9 @@ Tugas ini merupakan kelanjutan dari proyek Portal Berita yang menambahkan fitur 
 
 ## Bukti Hasil Praktikum
 
-- **Implementasi Pagination**: `01_Implementasi_Pagination_Berhasil.png`
+- **Implementasi Pagination** :
+
+   ![foto](https://github.com/NadhiaShafira/Lab7Web./blob/6c52a1dbfc55848ec40e3915053985204352e8b2/ssweb5/01_Implementasi_Pagination_Berhasil.png)
   
-- **Implementasi Pencarian**: `02_Implementasi_Pencarian_Berhasil.png`
+- **Implementasi Pencarian** : `02_Implementasi_Pencarian_Berhasil.png`
 
